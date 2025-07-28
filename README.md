@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Rail Reservation System – C++
+# Indian Rail Reservation System – C++
 
 A terminal-based railway reservation system built using C++. This project simulates core functionalities of the Indian Railways booking system, including user login, ticket booking, cancellation, and reservation viewing.
 
